@@ -1,11 +1,11 @@
 # ML for Trading - 2<sup>nd</sup> Edition
 
-This [book](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715?pf_rd_r=GZH2XZ35GB3BET09PCCA&pf_rd_p=c5b6893a-24f2-4a59-9d4b-aff5065c90ec&pd_rd_r=91a679c7-f069-4a6e-bdbb-a2b3f548f0c8&pd_rd_w=2B0Q0&pd_rd_wg=GMY5S&ref_=pd_gw_ci_mcx_mr_hp_d) aims to show how ML can add value to algorithmic trading strategies in a practical yet comprehensive way. It covers a broad range of ML techniques from linear regression to deep reinforcement learning and demonstrates how to build, backtest, and evaluate a trading strategy driven by model predictions.  
+这本书（https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715?pf_rd_r=GZH2XZ35GB3BET09PCCA&pf_rd_p=c5b6893a-24f2-4a59-9d4b-aff5065c90ec&pd_rd_r=91 a679c7 - f069-4a6e- bdbb -a2b3f548f0c8&pd_rd_w=2B0Q0&pd_rd_wg=GMY5S&ref_=pd_gw_ci_mcx_mr_hp_d ）旨在展示机器学习如何以实用而全面的方式为算法交易策略增加价值。它涵盖了从线性回归到深度强化学习的广泛机器学习技术，并演示了如何构建、回测和评估由模型预测驱动的交易策略。  
 
-In four parts with **23 chapters plus an appendix**, it covers on **over 800 pages**:
-- important aspects of data sourcing, **financial feature engineering**, and portfolio management, 
-- the design and evaluation of long-short **strategies based on supervised and unsupervised ML algorithms**,
-- how to extract tradeable signals from **financial text data** like SEC filings, earnings call transcripts or financial news,
+分为四部分，** 23 章加上附录**，涵盖** 800 多页**：
+-数据源、**金融特征工程**和投资组合管理的重要方面，
+-基于监督和无监督机器学习算法**的多空**策略的设计和评估，
+-- 如何从**财务文本数据**（如 SEC 文件、财报电话会议记录或财经新闻）中提取可交易信号，**financial text data** like SEC filings, earnings call transcripts or financial news,
 - using **deep learning** models like CNN and RNN with market and alternative data, how to generate synthetic data with generative adversarial networks, and training a trading agent using deep reinforcement learning
 
 <p align="center">
@@ -15,25 +15,25 @@ In four parts with **23 chapters plus an appendix**, it covers on **over 800 pag
 </p>
 
 This repo contains **over 150 notebooks** that put the concepts, algorithms, and use cases discussed in the book into action. They provide numerous examples that show:
-- how to work with and extract signals from market, fundamental and alternative text and image data, 
-- how to train and tune models that predict returns for different asset classes and investment horizons, including how to replicate recently published research, and 
-- how to design, backtest, and evaluate trading strategies.
+-- 如何使用市场、基本面和替代文本和图像数据并从中提取信号，
+-- 如何训练和调整模型来预测不同资产类别和投资期限的回报，包括如何复制最近发表的研究，以及
+-- 如何设计、回测和评估交易策略。
 
-> We **highly recommend** reviewing the notebooks while reading the book; they are usually in an executed state and often contain additional information not included due to space constraints.  
+>> 我们**强烈建议**在阅读本书时复习笔记本；它们通常处于已执行状态，并且通常包含由于空间限制而未包含的附加信息。  **highly recommend** reviewing the notebooks while reading the book; they are usually in an executed state and often contain additional information not included due to space constraints.  
 
-In addition to the information in this repo, the book's [website](ml4trading.io) contains chapter summary and additional information.
+除了本存储库中的信息之外，本书的[网站](ml4trading.io) 还包含章节摘要和其他信息。[website](ml4trading.io) contains chapter summary and additional information.
 
 ## Join the ML4T Community!
 
-To make it easy for readers to ask questions about the book's content and code examples, as well as the development and implementation of their own strategies and industry developments, we are hosting an online [platform](https://exchange.ml4trading.io/).
+为了方便读者就本书的内容和代码示例以及自己的策略和行业发展的制定和实施提出问题，我们正在托管一个在线[平台](https://exchange.ml4trading.io /）。[platform](https://exchange.ml4trading.io/).
 
-Please [join](https://exchange.ml4trading.io/) our community and connect with fellow traders interested in leveraging ML for trading strategies, share your experience, and learn from each other! 
+请[加入](https://exchange.ml4trading.io/)我们的社区，与有兴趣利用机器学习进行交易策略的其他交易者联系，分享您的经验，并互相学习！[join](https://exchange.ml4trading.io/) our community and connect with fellow traders interested in leveraging ML for trading strategies, share your experience, and learn from each other! 
 
 ## What's new in the 2<sup>nd</sup> Edition?
 
-First and foremost, this [book](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715?pf_rd_r=VMKJPZC4N36TTZZCWATP&pf_rd_p=c5b6893a-24f2-4a59-9d4b-aff5065c90ec&pd_rd_r=8f331266-0d21-4c76-a3eb-d2e61d23bb31&pd_rd_w=kVGNF&pd_rd_wg=LYLKH&ref_=pd_gw_ci_mcx_mr_hp_d) demonstrates how you can extract signals from a diverse set of data sources and design trading strategies for different asset classes using a broad range of supervised, unsupervised, and reinforcement learning algorithms. It also provides relevant mathematical and statistical knowledge to facilitate the tuning of an algorithm or the interpretation of the results. Furthermore, it covers the financial background that will help you work with market and fundamental data, extract informative features, and manage the performance of a trading strategy.
+First and foremost, this [book](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715?pf_rd_r=VMKJPZC4N36TTZZCWATP&pf_rd_p=c5b6893a-24f2-4a59-9d4b-aff5065c90ec&pd_rd_r=8f331266-0d21-4c76-a3eb-d2e61d23bb31&pd_rd_w=kVGNF&pd_rd_wg=LYLKH&ref_=pd_gw_ci_mcx_mr_hp_d) demonstrates how you can extract signals from a diverse set of data sources and design trading strategies for different asset classes using a broad range of supervised, unsupervised, and reinforcement learning algorithms。它还提供相关的数学和统计知识，以方便算法的调整或结果的解释。此外，它还涵盖了金融背景，可帮助您处理市场和基本数据、提取信息特征以及管理交易策略的绩效。
 
-From a practical standpoint, the 2nd edition aims to equip you with the conceptual understanding and tools to develop your own ML-based trading strategies. To this end, it frames ML as a critical element in a process rather than a standalone exercise, introducing the end-to-end ML for trading workflow from data sourcing, feature engineering, and model optimization to strategy design and backtesting.
+从实践的角度来看，第二版旨在为您提供概念理解和工具，以开发您自己的基于机器学习的交易策略。为此，它将机器学习视为流程中的关键元素，而不是独立的练习，引入了从数据源、特征工程、模型优化到策略设计和回测的交易工作流程的端到端机器学习。
 
 More specifically, the ML4T workflow starts with generating ideas for a well-defined investment universe, collecting relevant data, and extracting informative features. It also involves designing, tuning, and evaluating ML models suited to the predictive task. Finally, it requires developing trading strategies to act on the models' predictive signals, as well as simulating and evaluating their performance on historical data using a backtesting engine. Once you decide to execute an algorithmic strategy in a real market, you will find yourself iterating over this workflow repeatedly to incorporate new information and a changing environment.
 
@@ -48,7 +48,7 @@ The trading applications now use a broader range of data sources beyond daily US
 Another innovation of the second edition is to replicate several trading applications recently published in top journals: 
 - [Chapter 18](18_convolutional_neural_nets) demonstrates how to apply convolutional neural networks to time series converted to image format for return predictions based on [Sezer and Ozbahoglu](https://www.researchgate.net/publication/324802031_Algorithmic_Financial_Trading_with_Deep_Convolutional_Neural_Networks_Time_Series_to_Image_Conversion_Approach) (2018). 
 - [Chapter 20](20_autoencoders_for_conditional_risk_factors) shows how to extract risk factors conditioned on stock characteristics for asset pricing using autoencoders based on [Autoencoder Asset Pricing Models](https://www.aqr.com/Insights/Research/Working-Paper/Autoencoder-Asset-Pricing-Models) by Shihao Gu, Bryan T. Kelly, and Dacheng Xiu (2019), and 
-- [Chapter 21](21_gans_for_synthetic_time_series) shows how to create synthetic training data using generative adversarial networks based on [Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/8789-time-series-generative-adversarial-networks) by Jinsung Yoon, Daniel Jarrett, and Mihaela van der Schaar (2019).
+-- [第21章](21_gans_for_synthetic_time_series)展示了如何使用基于[时间序列生成对抗网络]的生成对抗网络创建合成训练数据(https://papers.nips.cc/paper/8789-time-series-generative-对抗网络），作者：Jinsung Yoon、Daniel Jarrett 和 Mihaela van der Schaar（2019）。[Chapter 21](21_gans_for_synthetic_time_series) shows how to create synthetic training data using generative adversarial networks based on [Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/8789-time-series-generative-adversarial-networks) by Jinsung Yoon, Daniel Jarrett, and Mihaela van der Schaar (2019).
 
 All applications now use the latest available (at the time of writing) software versions such as pandas 1.0 and TensorFlow 2.2. There is also a customized version of Zipline that makes it easy to include machine learning model predictions when designing a trading strategy.
 
@@ -515,4 +515,418 @@ To this end, we focus on the broad range of indicators implemented by TA-Lib (se
 This chapter covers: 
 - How to compute several dozen technical indicators using TA-Lib and NumPy/pandas,
 - Creating the formulaic alphas describe in the above paper, and
-- Evaluating the predictive quality of the results using various metrics from rank correlation and mutual information to feature importance, SHAP values and Alphalens. 
+- Evaluating the predictive quality of the results using various metrics from rank correlation and mutual information to feature importance, SHAP values and Alphalens.
+
+- 交易机器学习 -第二版
+本书旨在展示机器学习如何以实用而全面的方式为算法交易策略增加价值。它涵盖了从线性回归到深度强化学习的广泛机器学习技术，并演示了如何构建、回测和评估由模型预测驱动的交易策略。
+
+它分为四部分，共23 章和一个附录，共800 多页：
+
+数据源、金融特征工程和投资组合管理的重要方面，
+基于监督和无监督机器学习算法的多空策略的设计和评估，
+如何从SEC 文件、财报电话会议记录或财经新闻等金融文本数据中提取可交易信号，
+将 CNN 和 RNN 等深度学习模型与市场和替代数据结合使用，如何通过生成对抗网络生成合成数据，以及使用深度强化学习训练交易代理
+
+
+该存储库包含150 多个笔记本，它们将书中讨论的概念、算法和用例付诸实践。他们提供了大量的例子表明：
+
+如何使用市场、基本面和替代文本和图像数据并从中提取信号，
+如何训练和调整模型来预测不同资产类别和投资期限的回报，包括如何复制最近发表的研究，以及
+如何设计、回测和评估交易策略。
+我们强烈建议您在阅读本书时查看笔记本；它们通常处于已执行状态，并且通常包含由于空间限制而未包含的附加信息。
+
+除了本存储库中的信息之外，本书的网站还包含章节摘要和其他信息。
+
+加入 ML4T 社区！
+为了方便读者就本书的内容和代码示例以及自己的策略和行业发展的制定和实施提出问题，我们正在托管一个在线平台。
+
+请加入我们的社区，与有兴趣利用机器学习进行交易策略的其他交易者联系，分享您的经验，并互相学习！
+
+第二版有什么新内容？
+首先，本书演示了如何使用各种监督、无监督和强化学习算法从各种数据源中提取信号并为不同资产类别设计交易策略。它还提供相关的数学和统计知识，以方便算法的调整或结果的解释。此外，它还涵盖了金融背景，可帮助您处理市场和基本数据、提取信息特征以及管理交易策略的绩效。
+
+从实践的角度来看，第二版旨在为您提供概念理解和工具，以开发您自己的基于机器学习的交易策略。为此，它将机器学习视为流程中的关键元素，而不是独立的练习，引入了从数据源、特征工程、模型优化到策略设计和回测的交易工作流程的端到端机器学习。
+
+更具体地说，ML4T 工作流程首先为明确定义的投资领域产生想法，收集相关数据并提取信息特征。它还涉及设计、调整和评估适合预测任务的机器学习模型。最后，它需要开发交易策略来作用于模型的预测信号，并使用回测引擎模拟和评估其在历史数据上的表现。一旦您决定在真实市场中执行算法策略，您会发现自己反复迭代此工作流程以融入新信息和不断变化的环境。
+
+
+
+第二版对 ML4t 工作流程的强调转化为关于策略回测的新章节、描述 100 多个不同 alpha 因子的新附录以及许多新的实际应用。为了清晰和可读性，我们还重写了大部分现有内容。
+
+交易应用程序现在使用除每日美国股票价格之外更广泛的数据源，包括国际股票和 ETF。它还演示了如何将机器学习用于具有分钟频率股票数据的日内策略。此外，它还扩展了替代数据源的覆盖范围，包括用于情绪分析和回报预测的 SEC 文件，以及用于对土地用途进行分类的卫星图像。
+
+第二版的另一个创新是复制了最近在顶级期刊上发表的几个交易应用程序：
+
+第 18 章演示了如何将卷积神经网络应用于转换为图像格式的时间序列，以基于Sezer 和 Ozbahoglu（2018）进行回报预测。
+第 20 章展示了如何使用基于 Shihao Gu、Bryan T. Kelly 和 Da Cheng Xiu (2019) 的自动编码器资产定价模型的自动编码器提取以股票特征为条件的风险因素，以进行资产定价，以及
+第 21 章展示了如何使用基于时间序列生成对抗网络的生成对抗网络创建合成训练数据，作者是 Jinsung Yoon、Daniel Jarrett 和 Mihaela van der Schaar（2019 年）。
+所有应用程序现在都使用最新的可用（在撰写本文时）软件版本，例如 pandas 1.0 和 TensorFlow 2.2。还有一个定制版本的 Zipline，可以在设计交易策略时轻松包含机器学习模型预测。
+
+安装、数据源和错误报告
+这些代码示例依赖于数据科学和金融领域的各种 Python 库。
+
+没有必要尝试一次安装所有库，因为这会增加遇到版本冲突的可能性。相反，我们建议您在阅读过程中安装特定章节所需的库。
+
+2022 年 3 月更新：zipline-reloaded、pyfolio-reloaded、alphalens-reloaded和empyrical-reloaded现已在conda-forge频道上提供。该频道ml4t仅包含过时的版本，很快就会被删除。
+
+2021年4月更新：随着Zipline的更新，不再需要使用Docker。安装说明现在引用了特定于操作系统的环境文件，这些文件应该可以简化笔记本电脑的运行。
+
+2021 年 2 月更新：代码示例版本 2.0 将 Docker 映像提供的 conda 环境更新为 Python 3.8、Pandas 1.2 和 TensorFlow 1.2 等；Zipline 回测环境现在使用 Python 3.6。
+
+安装目录包含有关设置和使用 Docker 映像来运行笔记本的详细说明。它还包含用于设置各种conda环境的配置文件，如果您愿意，可以直接在您的计算机上安装笔记本中使用的软件包（并且，根据您的系统，准备好加倍努力）。
+要下载和预处理本书中使用的许多数据源，请参阅自述文件中的说明以及数据目录中的各种笔记本。
+如果您在安装环境、下载数据或运行代码时遇到任何困难，请在存储库中提出GitHub 问题（此处）。此处描述了如何处理 GitHub 问题。
+
+更新：您可以在此处下载本书中使用的algoseek数据。请参阅第 2 章中的预处理说明和第 12 章中的梯度增强模型的日内示例。
+
+更新：图形目录包含书中使用的图表的彩色版本。
+
+大纲和章节摘要
+本书分为四个部分，分别解决在获取和使用市场、基本数据和替代数据源时出现的不同挑战，为交易环境中的各种预测任务开发机器学习解决方案，以及设计和评估依赖于生成的预测信号的交易策略。机器学习模型。
+
+每章的目录都包含一个自述文件，其中包含有关内容、代码示例和其他资源的附加信息。
+
+第 1 部分：从数据到战略制定
+
+01 交易机器学习：从想法到执行
+02 市场与基本数据：来源和技术
+03 金融替代数据：类别和用例
+04 金融特征工程：如何研究Alpha因子
+05 投资组合优化与绩效评估
+第 2 部分：交易机器学习：基础知识
+
+06 机器学习过程
+07 线性模型：从风险因素到回报预测
+08 ML4T 工作流程：从模型到策略回测
+09 波动率预测和统计套利的时间序列模型
+10 贝叶斯机器学习：动态夏普比率和配对交易
+11 随机森林：日本股票的多空策略
+12 提升您的交易策略
+13 数据驱动的风险因素和无监督学习的资产配置
+第 3 部分：交易自然语言处理
+
+14 交易文本数据：情绪分析
+15 主题建模：总结财经新闻
+16 财报电话会议和 SEC 文件的词嵌入
+第 4 部分：深度学习和强化学习
+
+17 深度学习交易
+18 CNN 金融时间序列和卫星图像
+19 用于多元时间序列和情感分析的 RNN
+20 个用于条件风险因素和资产定价的自动编码器
+21 用于合成时间序列数据的生成对抗网络
+22 深度强化学习：构建交易代理
+23 结论和后续步骤
+24 附录 - Alpha 因子库
+第 1 部分：从数据到战略制定
+第一部分提供了一个用于开发由机器学习 (ML) 驱动的交易策略的框架。它重点关注为本书中讨论的机器学习算法和策略提供支持的数据，概述了如何设计和评估适合机器学习模型的功能，以及如何在执行交易策略时管理和衡量投资组合的表现。
+
+01 交易机器学习：从想法到执行
+本章探讨了导致机器学习成为投资行业竞争优势来源的行业趋势。我们还将研究机器学习在投资流程中的应用，以实现算法交易策略。
+
+更具体地说，它涵盖以下主题：
+
+机器学习在投资行业崛起背后的主要趋势
+利用机器学习的交易策略的设计和执行
+机器学习在交易中的流行用例
+02 市场与基本数据：来源和技术
+本章展示如何使用市场和基本数据，并描述它们所反映的环境的关键方面。例如，熟悉各种订单类型和交易基础设施不仅对于数据的解释很重要，而且对于正确设计回测模拟也很重要。我们还说明了如何使用 Python 访问和操作交易和财务报表数据。
+
+实际示例演示了如何使用来自 NASDAQ 逐笔报价数据和 Algoseek 分钟柱数据的交易数据，以及一组丰富的属性来捕获供需动态，我们稍后将使用这些属性来创建基于 ML 的日内策略。我们还介绍了各种数据提供商 API 以及如何从 SEC 获取财务报表信息。
+
+订单簿
+
+本章特别涵盖：
+市场数据如何反映交易环境的结构
+以分钟频率处理日内交易和报价数据
+使用 NASDAQ ITCH 从逐笔报价数据重建限价订单簿
+使用各种类型的柱形图汇总刻度数据
+使用可扩展业务报告语言 (XBRL) 编码的电子申报
+解析并结合市场和基本数据以创建市盈率系列
+如何使用Python访问各种市场和基本数据源
+03 金融替代数据：类别和用例
+本章概述了替代数据的类别和用例，描述了评估爆炸式增长的数据源和提供商的标准，并总结了当前的市场格局。
+
+它还演示了如何通过抓取网站来创建替代数据集，例如收集财报电话会议记录以与本书第三部分中的自然语言处理（NLP）和情绪分析算法一起使用。
+
+更具体地说，本章涵盖：
+
+另类数据革命期间出现了哪些新信号源
+个人、企业和传感器如何生成多样化的替代数据
+另类数据的重要类别和提供者
+评估如何将不断增长的替代数据用于交易
+在 Python 中使用替代数据，例如通过抓取互联网
+04 金融特征工程：如何研究Alpha因子
+如果您已经熟悉 ML，您就会知道特征工程是成功预测的关键因素。它在交易领域至少同样重要，学术界和行业研究人员几十年来一直在研究驱动资产市场和价格的因素，以及哪些特征有助于解释或预测价格变动。
+
+
+
+本章概述了这项研究的主要要点，作为您自己探索阿尔法因子的起点。它还提供了计算和测试 alpha 因子的基本工具，重点介绍了 NumPy、pandas 和 TA-Lib 库如何促进数据操作，并介绍了小波和卡尔曼滤波器等流行的平滑技术，有助于减少数据中的噪声。读完后，您将了解：
+
+存在哪些类别的因素、它们为何起作用以及如何衡量它们，
+使用 NumPy、pandas 和 TA-Lib 创建 alpha 因子，
+如何使用小波和卡尔曼滤波器对数据进行去噪，
+使用 Zipline 测试单个和多个 alpha 因子，
+如何使用Alphalens评估预测性能。
+05 投资组合优化与绩效评估
+Alpha 因子产生信号，将算法策略转化为交易，进而产生多头和空头头寸。由此产生的投资组合的回报和风险决定了该策略是否满足投资目标。
+
+
+
+有多种方法可以优化投资组合。其中包括应用机器学习（ML）来学习资产之间的层次关系，并在设计投资组合的风险状况时将它们视为补充或替代品。本章内容包括：
+
+如何衡量投资组合的风险和回报
+使用均值方差优化和替代方案管理投资组合权重
+使用机器学习在投资组合环境中优化资产配置
+使用 Zipline 模拟交易并根据 alpha 因子创建投资组合
+如何使用pyfolio评估投资组合绩效
+第 2 部分：交易机器学习：基础知识
+第二部分涵盖了基本的监督和无监督学习算法，并说明了它们在交易策略中的应用。它还介绍了 Quantopian 平台，允许您利用和结合本书中开发的数据和机器学习技术来实施在实时市场中执行交易的算法策略。
+
+06 机器学习过程
+本章是第 2 部分的开始，第 2部分说明了如何使用一系列监督和无监督的 ML 模型进行交易。在使用各种 Python 库演示相关应用程序之前，我们将解释每个模型的假设和用例。
+
+许多这些模型及其应用程序有几个共同点。本章涵盖了这些常见方面，以便我们可以在后续章节中重点关注特定于模型的用法。它通过概述如何将 ML 模型的预测性能制定、训练、调整和评估作为系统工作流程奠定了基础。内容包括：
+
+
+
+监督和无监督数据学习如何运作
+训练和评估回归和分类任务的监督学习模型
+偏差-方差权衡如何影响预测性能
+如何诊断和解决由于过度拟合而导致的预测错误
+使用交叉验证来优化超参数，重点关注时间序列数据
+为什么在样本外测试时需要额外关注财务数据
+07 线性模型：从风险因素到回报预测
+线性模型是回归和分类环境中推理和预测的标准工具。许多广泛使用的资产定价模型都依赖于线性回归。Ridge 和 Lasso 回归等正则化模型通常可以通过限制过度拟合的风险来产生更好的预测。典型的回归应用程序识别驱动资产回报的风险因素，以管理风险或预测回报。另一方面，分类问题包括定向价格预测。
+
+
+
+第 07 章涵盖以下主题：
+
+线性回归如何工作以及它做出哪些假设
+训练和诊断线性回归模型
+使用线性回归预测股票收益
+使用正则化来提高预测性能
+逻辑回归的工作原理
+将回归问题转化为分类问题
+08 ML4T 工作流程：从模型到策略回测
+本章从端到端的角度介绍了设计、模拟和评估由机器学习算法驱动的交易策略。我们将详细演示如何使用 Python 库backtrader和Zipline在历史市场环境中回溯测试 ML 驱动的策略。ML4T 工作流程的最终目标是从历史数据中收集证据，帮助决定是否在实时市场中部署候选策略并将财务资源置于风险之中。对策略的真实模拟需要忠实地反映证券市场的运作方式以及交易的执行方式。此外，需要注意几个方法方面的问题，以避免有偏见的结果和错误的发现，从而导致错误的投资决策。
+
+
+
+更具体地说，学完本章后，您将能够：
+
+规划并实施端到端策略回测
+了解并避免实施回测时的关键陷阱
+讨论矢量化回测引擎与事件驱动回测引擎的优缺点
+识别并评估事件驱动回测器的关键组件
+使用数据源以分钟和每日的频率设计和执行 ML4T 工作流程，并单独训练 ML 模型或作为回测的一部分
+使用 Zipline 和 backtrader 设计和评估您自己的策略
+09 波动率预测和统计套利的时间序列模型
+本章重点介绍从时间序列历史中提取信号以预测同一时间序列的未来值的模型。由于交易固有的时间维度，时间序列模型被广泛使用。它提供了诊断时间序列特征（例如平稳性）和提取捕获潜在有用模式的特征的工具。它还引入了单变量和多元时间序列模型来预测宏观数据和波动模式。最后，它解释了协整如何识别时间序列中的共同趋势，并展示了如何基于这一关键概念开发配对交易策略。
+
+
+
+特别是，它涵盖：
+
+如何使用时间序列分析来准备建模过程并为其提供信息
+估计和诊断单变量自回归和移动平均模型
+构建自回归条件异方差 (ARCH) 模型来预测波动性
+如何构建多元向量自回归模型
+使用协整开发配对交易策略
+10 贝叶斯机器学习：动态夏普比率和配对交易
+贝叶斯统计使我们能够量化未来事件的不确定性，并在新信息到来时以有原则的方式完善估计。这种动态方法很好地适应了金融市场不断变化的性质。机器学习的贝叶斯方法能够对统计指标、参数估计和预测的不确定性提供新的见解。应用范围从更精细的风险管理到包含市场环境变化的预测模型的动态更新。
+
+
+
+更具体地说，本章涵盖：
+
+贝叶斯统计如何应用于机器学习
+使用 PyMC3 进行概率编程
+使用 PyMC3 定义和训练机器学习模型
+如何运行最先进的采样方法来进行近似推理
+贝叶斯机器学习应用程序，用于计算动态夏普比率、动态货币对交易对冲比率以及估计随机波动率
+11 随机森林：日本股票的多空策略
+本章将决策树和随机森林应用于交易。决策树从编码非线性输入输出关系的数据中学习规则。我们展示了如何训练决策树来预测回归和分类问题，可视化和解释模型学到的规则，以及调整模型的超参数以优化偏差-方差权衡并防止过度拟合。
+
+本章的第二部分介绍了集成模型，该模型以随机方式组合多个决策树，以产生误差较低的单个预测。最后得出了基于随机森林模型生成的交易信号的日本股票多空策略。
+
+
+
+简而言之，本章涵盖：
+
+使用决策树进行回归和分类
+从决策树中获取见解并可视化从数据中学到的规则
+了解为什么集成模型往往会提供出色的结果
+使用引导聚合来解决决策树的过度拟合挑战
+训练、调整和解释随机森林
+采用随机森林来设计和评估有利可图的交易策略
+12 提升您的交易策略
+梯度增强是一种替代的基于树的集成算法，通常比随机森林产生更好的结果。关键的区别在于，Boosting 根据模型产生的累积误差修改用于训练每棵树的数据。虽然随机森林使用数据的随机子集独立地训练许多树，但提升会按顺序进行并重新加权数据。本章展示了最先进的库如何实现令人印象深刻的性能，并将提升应用于每日和高频数据来回测日内交易策略。
+
+
+
+更具体地说，我们将涵盖以下主题：
+
+boosting 与 bagging 有何不同，梯度 boosting 是如何从自适应 boosting 演变而来的，
+使用 scikit-learn 设计和调整自适应和梯度增强模型，
+使用最先进的实现 XGBoost、LightGBM 和 CatBoost 在大型数据集上构建、优化和评估梯度增强模型，
+使用SHA值解释梯度增强模型并从中获得见解，以及
+使用高频数据的提升来设计日内策略。
+13 数据驱动的风险因素和无监督学习的资产配置
+降维和聚类是无监督学习的主要任务：
+
+降维将现有特征转换为新的、更小的集合，同时最大限度地减少信息损失。存在多种算法，这些算法的不同之处在于它们如何衡量信息丢失，是否应用线性或非线性变换，或者它们对新特征集施加的约束。
+聚类算法识别相似的观察或特征并将其分组，而不是识别新特征。算法的不同之处在于如何定义观察的相似性以及对结果组的假设。
+
+
+更具体地说，本章涵盖：
+
+主成分分析和独立成分分析（PCA 和 ICA）如何执行线性降维
+使用 PCA 从资产回报中识别数据驱动的风险因素和特征投资组合
+使用流形学习有效地可视化非线性、高维数据
+使用T-SNE和UMAP探索高维图像数据
+k 均值、分层和基于密度的聚类算法如何工作
+使用凝聚聚类构建具有分层风险平价的稳健投资组合
+第 3 部分：交易自然语言处理
+文本数据内容丰富，但格式非结构化，因此需要更多预处理，以便机器学习算法能够提取潜在信号。关键的挑战包括将文本转换为可供算法使用的数字格式，同时表达内容的语义或含义。
+
+接下来的三章介绍了几种捕捉人类容易理解的语言细微差别的技术，以便机器学习算法也可以解释它们。
+
+14 交易文本数据：情绪分析
+文本数据内容非常丰富，但高度非结构化，因此需要更多的预处理才能使机器学习算法能够提取相关信息。一个关键的挑战包括将文本转换为数字格式而不失去其含义。本章介绍如何通过创建文档术语矩阵将文档表示为标记计数向量，该矩阵又充当文本分类和情感分析的输入。它还介绍了朴素贝叶斯算法，并将其性能与线性和基于树的模型进行了比较。
+
+特别是，本章涵盖：
+
+NLP 的基本工作流程是什么样的
+如何使用 spaCy 和 TextBlob 构建多语言特征提取管道
+执行 NLP 任务，例如词性标记或命名实体识别
+使用文档术语矩阵将标记转换为数字
+使用朴素贝叶斯模型对新闻进行分类
+如何使用不同的机器学习算法执行情感分析
+15 主题建模：总结财经新闻
+本章使用无监督学习来建模潜在主题并从文档中提取隐藏主题。这些主题可以生成对大量财务报告的详细见解。主题模型可以自动创建复杂的、可解释的文本特征，从而有助于从大量文本集合中提取交易信号。它们加快文档审查速度，实现相似文档的聚类，并生成对预测建模有用的注释。应用包括识别公司披露、财报电话会议记录或合同中的关键主题，以及基于情绪分析或使用相关资产回报的注释。
+
+
+
+更具体地说，它涵盖：
+
+主题建模如何演变、它取得了什么成果以及它为何重要
+使用潜在语义索引降低 DTM 的维度
+使用概率潜在语义分析 (pLSA) 提取主题
+潜在狄利克雷分配（LDA）如何改进 pLSA 成为最流行的主题模型
+可视化和评估主题建模结果 -
+使用 scikit-learn 和 gensim 运行 LDA
+如何将主题建模应用于财报电话会议和财经新闻文章的集合
+16 财报电话会议和 SEC 文件的词嵌入
+本章使用神经网络来学习单个语义单元（例如单词或段落）的向量表示。与词袋模型的高维稀疏向量相比，这些向量密集，包含数百个实值条目。结果，这些向量将每个语义单元嵌入或定位在连续向量空间中。
+
+嵌入是通过训练模型将标记与其上下文相关联而产生的，其优点是相似的用法意味着相似的向量。因此，它们通过单词之间的相对位置来编码语义方面，例如单词之间的关系。它们是我们将在接下来的章节中与深度学习模型一起使用的强大功能。
+
+
+
+更具体地说，在本章中，我们将介绍：
+
+什么是词嵌入以及它们如何捕获语义信息
+如何获取并使用预训练的词向量
+哪些网络架构在训练 word2vec 模型方面最有效
+如何使用 TensorFlow 和 gensim 训练 word2vec 模型
+可视化和评估词向量的质量
+如何根据 SEC 文件训练 word2vec 模型来预测股价走势
+doc2vec 如何扩展 word2vec 并帮助进行情感分析
+为什么 Transformer 的注意力机制对 NLP 产生如此大的影响
+如何根据金融数据微调预训练的 BERT 模型
+第 4 部分：深度学习和强化学习
+第四部分解释并演示了如何利用深度学习进行算法交易。深度学习算法识别非结构化数据模式的强大功能使其特别适合图像和文本等替代数据。
+
+例如，示例应用程序展示了如何结合文本和价格数据来预测 SEC 文件中的收益意外，生成合成时间序列以扩大训练数据量，以及使用深度强化学习来训练交易代理。其中一些应用复制了最近在顶级期刊上发表的研究。
+
+17 深度学习交易
+本章_介绍前馈神经网络 (NN)，并演示如何使用反向传播有效地训练大型模型，同时管理过度拟合的风险。它还展示了如何使用 TensorFlow 2.0 和 PyTorch 以及如何优化神经网络架构来生成交易信号。在接下来的章节中，我们将在此基础上将各种架构应用于不同的投资应用程序，重点关注另类数据。其中包括针对时间序列或自然语言等序列数据定制的循环神经网络，以及特别适合图像数据的卷积神经网络。我们还将介绍深度无监督学习，例如如何使用生成对抗网络（GAN）创建合成数据。此外，我们将讨论强化学习来训练从环境中交互式学习的代理。
+
+
+
+特别是，本章将涵盖
+
+深度学习如何解决复杂领域的人工智能挑战
+推动深度学习达到目前流行程度的关键创新
+前馈网络如何从数据中学习表示
+使用 Python 设计和训练深度神经网络 (NN)
+使用 Keras、TensorFlow 和 PyTorch 实现深度神经网络
+构建和调整深度神经网络来预测资产回报
+基于深度神经网络信号设计和回测交易策略
+18 CNN 金融时间序列和卫星图像
+CNN 架构不断发展。本章介绍了成功应用程序中常见的构建块，演示了迁移学习如何加速学习，以及如何使用 CNN 进行对象检测。CNN 可以从图像或时间序列数据生成交易信号。卫星数据可以通过农业区、矿山或运输网络的航空图像来预测商品趋势。摄像机镜头可以帮助预测消费者活动；我们展示了如何构建一个 CNN，对卫星图像中的经济活动进行分类。CNN 还可以利用其与图像的结构相似性来提供高质量的时间序列分类结果，我们设计了一种基于图像格式的时间序列数据的策略。
+
+
+
+更具体地说，本章涵盖：
+
+CNN 如何使用多个构建块对网格状数据进行高效建模
+使用 TensorFlow 针对图像和时间序列数据训练、调整和正则化 CNN
+使用迁移学习来简化 CNN，即使数据较少
+使用基于图像格式的时间序列数据训练的 CNN 进行回报预测来设计交易策略
+如何根据卫星图像对经济活动进行分类
+19 用于多元时间序列和情感分析的 RNN
+循环神经网络 (RNN) 将每个输出计算为先前输出和新数据的函数，从而有效地创建一个具有内存的模型，该模型在更深的计算图中共享参数。著名的架构包括长短期记忆 (LSTM) 和门控循环单元 (GRU)，它们解决了学习长期依赖关系的挑战。RNN 旨在将一个或多个输入序列映射到一个或多个输出序列，特别适合自然语言。它们还可以应用于单变量和多元时间序列来预测市场或基本数据。本章介绍 RNN 如何使用第 16 章中介绍的词嵌入对替代文本数据进行建模，以对文档中表达的情感进行分类。
+
+
+
+更具体地说，本章讨论：
+
+循环连接如何让 RNN 记住模式并对隐藏状态建模
+展开并分析 RNN 的计算图
+门控单元如何学习根据数据调节 RNN 内存以实现远程依赖
+使用 Python 设计和训练单变量和多变量时间序列的 RNN
+如何学习词嵌入或使用预训练的词向量通过 RNN 进行情感分析
+使用自定义词嵌入构建双向 RNN 来预测股票收益
+20 个用于条件风险因素和资产定价的自动编码器
+本章展示如何利用无监督深度学习进行交易。我们还讨论了自动编码器，即一种经过训练可以再现输入的神经网络，同时学习由隐藏层参数编码的新表示。自动编码器长期以来一直用于非线性降维，利用我们在过去三章中介绍的神经网络架构。我们复制了最近的 AQR 论文，该论文展示了自动编码器如何支持交易策略。我们将使用依赖于自动编码器的深度神经网络来提取风险因素并预测股票回报，以一系列股票属性为条件。
+
+
+
+更具体地说，在本章中您将了解：
+
+哪些类型的自动编码器具有实际用途以及它们如何工作
+使用 Python 构建和训练自动编码器
+使用自动编码器提取数据驱动的风险因素，考虑资产特征来预测回报
+21 用于合成时间序列数据的生成对抗网络
+本章介绍生成对抗网络（GAN）。GAN 在竞争环境中训练生成器和鉴别器网络，以便生成器学习生成鉴别器无法与给定类别的训练数据区分开来的样本。目标是产生一个能够生成代表此类的合成样本的生成模型。虽然 GAN 在图像数据中最受欢迎，但它也被用来在医学领域生成合成时间序列数据。随后的金融数据实验探讨了 GAN 是否可以产生可用于 ML 训练或策略回测的替代价格轨迹。我们复制 2019 年 NeurIPS 时间序列 GAN 论文来说明该方法并展示结果。
+
+
+
+更具体地说，在本章中您将了解：
+
+GAN 的工作原理、它们为何有用以及它们如何应用于交易
+使用 TensorFlow 2 设计和训练 GAN
+生成综合财务数据以扩展可用于训练 ML 模型和回溯测试的输入
+22 深度强化学习：构建交易代理
+强化学习 (RL) 通过与随机环境交互的代理来模拟目标导向的学习。强化学习通过从奖励信号中学习状态和动作的价值来优化代理关于长期目标的决策。最终目标是导出一种对行为规则进行编码并将状态映射到行动的策略。本章展示如何制定和解决强化学习问题。它涵盖了基于模型和无模型的方法，介绍了 OpenAI Gym 环境，并将深度学习与 RL 相结合来训练在复杂环境中导航的代理。最后，我们将向您展示如何通过对与金融市场交互的代理进行建模，同时尝试优化目标函数，使强化学习适应算法交易。
+
+
+
+更具体地说，本章将涵盖：
+
+定义马尔可夫决策问题 (MDP)
+使用价值和策略迭代来解决 MDP
+在具有离散状态和动作的环境中应用 Q-learning
+在连续环境中构建和训练深度 Q 学习代理
+使用 OpenAI Gym 设计自定义市场环境并训练 RL 代理来交易股票
+23 结论和后续步骤
+在最后一章中，我们将简要总结整本书中的基本工具、应用程序和经验教训，以避免在这么多细节之后忽视全局。然后，当您扩展我们介绍的许多机器学习技术并在日常使用中变得富有成效时，我们将确定我们没有涵盖但值得关注的领域。
+
+总而言之，在本章中，我们将
+
+回顾要点和经验教训
+指出基于本书中的技术的后续步骤
+提出将机器学习纳入投资流程的方法建议
+24 附录 - Alpha 因子库
+在本书中，我们强调了特征的智能设计（包括适当的预处理和去噪）通常如何产生有效的策略。本附录综合了特征工程方面的一些经验教训，并提供了有关这一重要主题的更多信息。
+
+为此，我们重点关注 TA-Lib（参见第 4 章）和 WorldQuant 的101 Formulaic Alphas论文（Kakushadze 2016）实施的广泛指标，该论文提出了生产中使用的真实量化交易因子，平均持有期为0.6-6.4天。
+
+本章内容包括：
+
+如何使用 TA-Lib 和 NumPy/pandas 计算几十个技术指标，
+创建上述论文中描述的公式化 alpha，以及
+使用从排名相关性和互信息到特征重要性、SHAP 值和 Alphalens 的各种指标来评估结果的预测质量。
